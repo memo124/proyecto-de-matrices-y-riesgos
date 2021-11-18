@@ -1,0 +1,14 @@
+$(document).ready(function(){
+    $('.tabs').tabs();
+    $('.sidenav').sidenav();
+    $('.slider').slider();
+    $('.carousel').carousel();
+    $('.collapsible').collapsible();
+    $('.parallax').parallax();
+    $('.tooltipped').tooltip();
+    $('.modal').modal();
+    $('.scrollspy').scrollSpy();
+    $('select').formSelect();
+    $(".dropdown-trigger").dropdown();
+    $('.datepicker').datepicker();
+});
